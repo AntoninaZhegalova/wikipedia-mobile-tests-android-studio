@@ -17,7 +17,7 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 
 Ссылки на выполненное задание в:
 
-* <a target="_blank" href="https://jenkins.autotests.cloud/job/azhegalova_hometask-21-mobile-1/3/allure/">Jenkins job</a>.
+* <a target="_blank" href="https://jenkins.autotests.cloud/job/azhegalova_hometask-22-mobile-android-2/">Jenkins job</a>.
 
 <p align="center">
 <img title="Allure Overview Dashboard" src="images/jenkins-report.png">
@@ -27,5 +27,17 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 Скриншоты:
 
 <p align="center">
-<img title="Wiki-update" src="images/wiki-update.png">
+<img title="Android studio" src="images/android studio.png">
+</p>
+<p align="center">
+<img title="Android studio" src="images/appium inspector.png">
+</p>
+<p align="center">
+<img title="Android studio" src="images/allure result 1.png">
+</p>
+<p align="center">
+<img title="Android studio" src="images/allure result 2.png">
+</p>
+<p align="center">
+<img title="Android studio" src="images/allure result 3.png">
 </p>
