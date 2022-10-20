@@ -15,14 +15,9 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 * Изучить функционал Appium Inspector.
 * Разработать автотест на getting started (onboarding screen) в приложении Wikipedia - пройти по 4м экранам, на каждом сделать проверку.
 
-Ссылки на выполненное задание в:
+Ссылка на сборку:
 
 * <a target="_blank" href="https://jenkins.autotests.cloud/job/azhegalova_hometask-22-mobile-android-2/">Jenkins job</a>.
-
-<p align="center">
-<img title="Allure Overview Dashboard" src="images/jenkins-report.png">
-</p>
-
 
 Скриншоты:
 
@@ -33,11 +28,11 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 <img title="Android studio" src="images/appium inspector.png">
 </p>
 <p align="center">
-<img title="Android studio" src="images/allure result 1.png">
+<img title="Android studio" src="images/allure result 1.png" width="500"/>
 </p>
 <p align="center">
-<img title="Android studio" src="images/allure result 2.png">
+<img title="Android studio" src="images/allure result 2.png"width="500"/>
 </p>
 <p align="center">
-<img title="Android studio" src="images/allure result 3.png">
+<img title="Android studio" src="images/allure result 3.png"width="500"/>
 </p>
